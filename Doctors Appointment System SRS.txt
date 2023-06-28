@@ -1,17 +1,16 @@
-Document:System Requirement Specification Document
+Document : System Requirement Specification Document
 
-Title:System Reqruiement Spefication for Doctor’s Appointment System
+Title : System Reqruiement Spefication for Doctorâ€™s Appointment System
 
-Team:
+Team :
 	Direct Patient, Indirect Patient,Architect, Business Analyst
 	Quality Assurance Team,
 	System Analyst
 
-Objective (Purpose):
-	The Doctor’s Appointment System for products Web Applictaion is intended to provide complete solution for Doctors, Paitents as well as internal users (Staff)         through  a single Gateway using internet. It will enable Doctors to setp up online Appointment, Paitents to browse through virtual portal and boook online         appointment without visiting the clinic/hospital physically.
+Objective (Purpose) :
+The Doctorâ€™s Appointment System for products Web Applictaion is intended to provide complete solution for Doctors, Paitents as well as internal users (Staff)         through  a single Gateway using internet. It will enable Doctors to setp up online Appointment, Paitents to browse through virtual portal and boook online         appointment without visiting the clinic/hospital physically.
 
-Scope:
-
+Scope :
 This System allows Hospitals/doctors to maintain thier Timings for adding or removing from catalog based on their availablity.
 Paitent will be able to  review visited history and may able to cancel Apppointment within 24 hours.	
 The System  will be able to show live Bussiness Operation statistics trends  through Customized dashboard for stakeholders.
@@ -19,7 +18,7 @@ This applicatoin will be accessible in Indian region initially.
 
 Definitions:
 
-	DAS: Doctor’s Appointment System
+	DAS: Doctorâ€™s Appointment System
 	QA:  Quality Assurance
 	Portal: Peronalized Online Web Application
 	MIS: Management Information System
@@ -51,17 +50,16 @@ BOD will be able to summary of appointments been placed , rejected from
 Order Processing of System. BOD will get Business insight by 
 observing  daily operations  with the of getting appointments information.
 		
+patient will be provided options for payment such as through internet banking  or  UPI  or Online payment option.
+patient will asked to submit their payment related information.patient will be redirected to payment gateway for secure payment
+transaction.On successful payment processing using payment gateway system will notify patient about transaction and appointment status.
 
-         patient will be provided options for payment such as through internet banking  or  UPI  or Online payment option.
- 	 patient will asked to submit their payment related information.patient will be redirected to payment gateway for secure payment
-	 transaction.On successful payment processing using payment gateway system will notify patient about transaction and appointment status.
+Patient will be able track appointment status
+Patient will be able add or cancle appointment based on quality service.
+Doctors  will be able to change the status of appointment.
 
-         Patient will be able track appointment status
-	 Patient will be able add or cancle appointment based on quality service.
-	 Doctors  will be able to change the status of appointment.
-
-	 Admin team will be able to monitor service provided by their doctors.
-	 Admin team will be able to track doctors status for particular Patient.
+Admin team will be able to monitor service provided by their doctors.
+Admin team will be able to track doctors status for particular Patient.
 	
          Patient will able to submit feedback about service they recived. 
          Patient will able to  get details about doctors appointments.
