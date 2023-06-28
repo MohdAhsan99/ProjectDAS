@@ -1,32 +1,39 @@
 Business Requiremnt Specification
+
 Author: 
+
 Title:Online Job Portal  of Customer Relationship Manager.
+
 Stakeholders:
-	 Doctor’s Community
+
+	 Doctorâ€™s Community
       	 Hospital
          Poly clinics
  	 Medicine Vendors and Testing Labs
   	 Medical Association of India
 
-
- 
 Document generated with the help of  series of meetings  held 
 between stake holders, Domain Experts, Business Analysts
 First Draft : 21/06/2023
 Revised Draft: 21/06/2023
 
-Explain about current businss of  Jay Malhar Nurses Bureau 
-Jay Malhar Nurses Bureau situated at Undri, Pune, Maharashtra, provide expertise nursing care by our qualified and trained care takers. We are well known for excellent care and personal tailored service, which strives to meet our clients requirements perfectly. Our trained nurses provide high-end quality care to patients at home. We are here for you and your family during life’s most challenging moments.
+Explain about current businss of  Jay Malhar Nurses Bureau :
+
+Jay Malhar Nurses Bureau situated at Undri, Pune, Maharashtra, provide expertise nursing care by our qualified and trained care takers. We are well known for excellent care and personal tailored service, which strives to meet our clients requirements perfectly. Our trained nurses provide high-end quality care to patients at home. We are here for you and your family during lifeâ€™s most challenging moments.
 
 Today, after more than four decades of successful operation, Jay Malhar Nurses Bureau  has become a trusted name and synonymous with quality Nursing. We have grown from one showroom into a chain of showrooms across western region at prominent location in the city of Pune, Surat & Ahmedabad other than Mumbai, in northern region at Delhi, Haryana & Noida.
 
 Jay Malhar Nurses Bureau want to expand their platform all over world using  internet. Jay Malhar Nurses Bureau  wants to develop :
-Doctor’s Appointment System is the public web application used for one specific hospital.
+Doctorâ€™s Appointment System is the public web application used for one specific hospital.
+
 There are mainly three types of user.
-Admin will be able to register a new (recruited) doctor into the hospital system and will 
+
+1. Admin will be able to register a new (recruited) doctor into the hospital system and will 
 have access to all the details regarding appointment booking and patients taking 
 treatment in the hospital.
-Patients can search and book appointments.
+
+2. Patients can search and book appointments.
 Already registered patients can view further schedule, records, all related information 
 regarding his/her treatment.
-Doctor’s can provide prescriptions to the consulting patients regarding medicines, lab tests, operations etc.
+
+3. Doctorâ€™s can provide prescriptions to the consulting patients regarding medicines, lab tests, operations etc. 
