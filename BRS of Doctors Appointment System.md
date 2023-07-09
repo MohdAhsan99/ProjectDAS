@@ -1,14 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-Doctor’s Appointment System
+<h1>Doctor’s Appointment System</h1>
 
 Business Requirement Specification
 
