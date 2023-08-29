@@ -7,14 +7,16 @@ import '../components/index1.css';
 import '../components/background.css';
 
 
-function Home() {
+function App1() {
   return (
  
      <div className="full-height back">
       
       <div >
+         
         <font className="edoc-logo">DOCO. </font>
         <font className="edoc-logo-sub">| THE ECHANNELING PROJECT</font>
+        
       </div>
 
     
@@ -52,4 +54,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default App1;
